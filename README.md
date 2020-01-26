@@ -32,7 +32,7 @@ GIF created with [Recordit](https://recordit.co).
 
 While building the app, I faced challenges regarding UserDefaults and saving the tip percentage on the settings page.
 When that issue was solved, I had to implement a new function to calculate the new tip value whenever the user would switch 
-from the settings screen to the home screen. 
+from the settings screen to the home screen, since, at first, only the action of the user changing the bill amount would alter the tip and total. 
 
 ## License
 
